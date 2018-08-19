@@ -6,7 +6,7 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
 
-import com.w3epic.wiprotraining.service.Video;
+import com.w3epic.wiprotraining.bean.Video;
 
 @RunWith(Suite.class)
 @Suite.SuiteClasses({

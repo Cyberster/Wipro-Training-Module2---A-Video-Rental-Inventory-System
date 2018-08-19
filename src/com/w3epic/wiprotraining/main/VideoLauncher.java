@@ -2,7 +2,7 @@ package com.w3epic.wiprotraining.main;
 
 import java.util.Scanner;
 
-import com.w3epic.wiprotraining.service.VideoStore;
+import com.w3epic.wiprotraining.bean.VideoStore;
 
 public class VideoLauncher {
 

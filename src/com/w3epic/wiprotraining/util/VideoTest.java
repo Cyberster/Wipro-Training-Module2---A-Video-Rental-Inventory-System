@@ -5,7 +5,7 @@ import static org.junit.Assert.*;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.w3epic.wiprotraining.service.Video;
+import com.w3epic.wiprotraining.bean.Video;
 
 public class VideoTest {
 	private Video video;

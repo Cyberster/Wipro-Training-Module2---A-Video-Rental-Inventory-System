@@ -1,4 +1,4 @@
-package com.w3epic.wiprotraining.service;
+package com.w3epic.wiprotraining.bean;
 
 public class Video {
 	private String videoName;

@@ -1,4 +1,4 @@
-package com.w3epic.wiprotraining.service;
+package com.w3epic.wiprotraining.bean;
 
 public class VideoStore {
 	private Video[] store;
